@@ -82,8 +82,11 @@ export const heroData: Hero = {
         In my free time time, you can catch me playing{" "}
         <strong className="text-stone-100">Basketball</strong>, Driving my{" "}
         <strong className="text-stone-100">car named Rusheeda</strong>, and
-        exploring beautiful{" "}
-        <strong className="text-stone-100">Places in Saudi</strong>.
+        playing with my children{" "}
+        <strong className="text-stone-100">
+          Abdullah, Abdurahman, & Abduraheem
+        </strong>
+        .
       </p>
     </>
   ),
